@@ -3,4 +3,6 @@
 Pierwsze projekty Python + CyberSec + AI.
 
 ## Zawartość
-- cyber_dict_v2.py - liczenie vuln portów z dict
+- ipchecker.py - liczenie vuln portów z dict tradycjny for
+- ipcheckv2.py - liczenie vuln portów z dict jednolinijkowy for
+- ipcheckVuln.py - liczenie vuln, skaner portów
